@@ -1,7 +1,7 @@
 # 💫 About Me:
-🎓 I have completed my B.E. in Information Technology from Army Institute of Technology.
-💼 Currently, I am working at Oracle, focusing on Microservices, Spring Boot, UPI, and Core Java features.
-🌱 I enjoy learning new things and am looking forward to working on some real-world projects.
+🎓 I have completed my B.E. in Information Technology from Army Institute of Technology.<br>
+💼 Currently, I am working at Oracle, focusing on Microservices, Spring Boot, UPI, and Core Java features.<br>
+🌱 I enjoy learning new things and am looking forward to working on some real-world projects.<br>
 
 
 ## 🌐 Socials:
