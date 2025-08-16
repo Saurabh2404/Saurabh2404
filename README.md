@@ -48,7 +48,7 @@
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/saurabhkumar2404/"(https://www.linkedin.com/in/saurabhkumar2404/)"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://github.com/saurabh"(https://github.com/Saurabh2404)"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="mailto:saurabh@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://instagram.com/saurabh"(https://www.instagram.com/rapidsaurabh/)"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://github.com/Saurabh2404"(https://github.com/Saurabh2404)"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="mailto:saurabh2196991@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.instagram.com/rapidsaurabh/"(https://www.instagram.com/rapidsaurabh/)"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
