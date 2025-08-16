@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m a final year student in Information Technology.<br>🌱 I’m currently learning Backend Development.<br>      I enjoy learning new things. <br>      Looking to work on Projects .
+🎓 I have completed my B.E. in Information Technology from Army Institute of Technology.
+💼 Currently, I am working at Oracle, focusing on Microservices, Spring Boot, UPI, and Core Java features.
+🌱 I enjoy learning new things and am looking forward to working on some real-world projects.
 
 
 ## 🌐 Socials:
